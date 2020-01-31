@@ -20,8 +20,6 @@ public class Problem1 {
 
     	System.out.println(result);
 
-
-
     }
 
     static int largestDivisibleNumber(int num, int den){
